@@ -21,7 +21,7 @@ repository               : "Haoli663/Haoli663.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "haoli.png"
   name             : "Hao Li"
   pronouns         : # example: "she/her"  
   bio              : "a student learning physics"
